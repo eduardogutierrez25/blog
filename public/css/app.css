@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: #fff;
+  color: #636b6f;
+  font-family: 'Raleway', sans-serif, arial;
+  font-weight: 100;
+  height: 100vh;
+  margin: 0;
+  padding-top: 70px;
+  box-sizing: inherit;
+}
+
+.img-container {
+  padding-top: 11px;
+  padding-right: 30px;
+}
+
+.nav-text {
+  font-family: 'Ubuntu', sans-serif, arial;
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=app.css.map */
